@@ -3,6 +3,8 @@
 @import "colors";
 @import "header";
 @import "home";
+@import "cart";
+@import "mediaquery";
 
 * {
     margin: 0%;
@@ -14,5 +16,4 @@
 
 body {
     background-color: $primary;
-    color: $tertiary;
 }
